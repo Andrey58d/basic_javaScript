@@ -28,10 +28,59 @@ console.log(color == 1 ? "light" :
 (color == 3 ? "nocturne" :
 color == 4 ? "terminal" : "indigo")))
 }*/
+/*var i =3;
 
-for(i=3; i>=1; i--) {
+for(i=3; i>=1;  i-- ) {
     console.log(i);
+   
+}*/
+console.log("assigment")
+var j=1;
+j+=1;
+console.log(j)
+console.log("\n")
+
+//comparison
+var a=2;
+console.log(a==3)
+console.log("\n")
+
+var i=2;
+var x=3;
+var k=1;
+/*
+1 danang, 2 hendi
+*/
+//if
+if (i<=4){
+    console.log("benar")
 }
+console.log("\n")
+
+//if else
+if (x>=5){
+    console.log("benar")
+}else{
+    console.log("salah")
+}
+console.log("\n")
+
+//switch case
+switch(k){
+    case 1:
+        console.log("danang")
+        break;
+    case 2:
+        console.log("hendi")
+}
+console.log("\n")
+
+
+    
+
+
+
+
 
 
     
